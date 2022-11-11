@@ -1,10 +1,9 @@
 ### Hi there 👋 This Is 🔭 YETESFA ALEMAYEHU 🤔 FLUTTER DEV
-<img align="center" height="270px" alt="guy" width="900" src="https://media.giphy.com/media/l2JhDNcWIfICZVWlW/giphy.gif" />
+<img align="center" height="270px" alt="guy" width="900" src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" />
  
-- 🔭 I’m currently working on Uber Clone App
-- 🌱 I’m currently Mastering Flutter
+- 🔭 I’m currently working on .... App
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Flutter Projects
-- 🤔 I’m looking for help with best Backend for Flutter
 - 💬 Ask me about Flutter And Dart
 - 📫 How to reach me: 
 
