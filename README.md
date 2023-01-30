@@ -1,8 +1,8 @@
 ### Hi there 👋 This Is 🔭 YETESFA ALEMAYEHU 🤔 FLUTTER DEV
 <img align="center" height="270px" alt="guy" width="900" src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" />
  
-- 🔭 I’m currently working on .... App
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working as Flutter Developer and content creater 
+- 🌱 I’m currently Mastering StateManagments in Flutter
 - 👯 I’m looking to collaborate on Flutter Projects
 - 💬 Ask me about Flutter And Dart
 - 📫 How to reach me: 
